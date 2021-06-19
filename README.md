@@ -24,3 +24,11 @@ We intend to onboard artisans renowned for their traditional Indian art forms on
 We help organize and create a community that appreciates their art.
 Help set up NEAR wallets, create NFTs.
 Although the focus right now is on the various painting techniques in India, this project could also cover other folk art, dances, and cinema.
+Idea Execution stages -
+
+Create a marketplace for this artwork and designs.
+Work with artisans to get them onboard onto the marketplace.
+Help them in displaying their artwork as NFT’s
+Facilitate the transaction between the artisans and the buyers.
+Being from a fashion and art background ourselves, suggest ideas in order to execute the design on the product of buyer’s choice.
+Give due diligence to the artisans and send the product to the buyer.
